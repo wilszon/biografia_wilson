@@ -274,6 +274,20 @@
 
     <hr class="section-divider">
 
+    <section class="section-box" id="experiencia">
+        <h2>Experiencia Laboral</h2>
+        <p>A continuación comparto algunas de las experiencias laborales más importantes que han marcado mi camino.</p>
+
+        <div class="experiencia-item">
+            <h3>Técnico de Mantenimiento de Equipos de Cómputo</h3>
+            <p><strong>HAS LTDA</strong> — Trabajo temporal (Nov. 2024 – Ene. 2025)</p>
+            <p>
+                Realicé formateo, limpieza física y mantenimiento preventivo de equipos de cómputo, asegurando un
+                funcionamiento óptimo y prolongando la vida útil del hardware.
+            </p>
+        </div>
+
+    </section>
 
 
 
