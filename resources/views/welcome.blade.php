@@ -173,6 +173,23 @@
     <hr class="section-divider">
 
 
+    <section class="section-box" id="origen">
+        <h2>Lugar de Nacimiento y Procedencia</h2>
+        <p>
+            Nací en <strong>Floridablanca, Santander (Colombia)</strong>, el <strong>3 de mayo del 2001</strong>.
+            Vivo con mis padres, <strong>Diana María Mantilla Chacón</strong> y <strong>Wilson Suárez Jaimes</strong>.
+            No tengo hermanos, por lo que mi familia está compuesta únicamente por mis padres y yo.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="foto_2.jpg" alt="Wilson Suarez">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+
+
 </body>
 
 </html>
