@@ -148,10 +148,53 @@
             background: #dcdcdc;
             color: black;
         }
+
+        .navbar-custom {
+            background: linear-gradient(90deg, #00ffff, #00bfff);
+            padding: 15px 30px;
+            display: flex;
+            justify-content: flex-end;
+            /* enlaces pegados a la derecha */
+            align-items: center;
+            z-index: 1000;
+            border-bottom: 2px solid cyan;
+        }
+
+        .navbar-custom .navbar-links {
+            list-style: none;
+            display: flex;
+            margin-left: auto;
+            gap: 25px;
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar-custom .navbar-links li a {
+            color: black;
+            /* texto negro */
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .navbar-custom .navbar-links li a:hover {
+            color: cyan;
+            text-shadow: 0 0 5px cyan;
+        }
     </style>
 </head>
 
 <body>
+
+    <nav class="navbar-custom">
+        <div class="container">
+            <ul class="navbar-links">
+                <li><a href="#habilidades">Habilidades</a></li>
+                <li><a href="#experiencia">Experiencia</a></li>
+                <li><a href="#academia">Academia</a></li>
+            </ul>
+        </div>
+    </nav>
 
     <section class="hero">
         <!-- Imagen a la izquierda -->
@@ -312,7 +355,7 @@
 
     </section>
     <!-- Sección de Habilidades -->
-    <section class="seccion">
+    <section class="seccion" id="habilidades">
         <h3>Habilidades</h3>
         <ul class="habilidades">
             <li>Administración y mantenimiento de equipos de cómputo</li>
@@ -357,16 +400,25 @@
             Me quiero enfocar en la rama del desarrollo de software, que es lo que más me apasiona,
             y espero pronto poder culminar mis estudios y graduarme con honores.
         </p>
+        <hr class="section-divider">
     </section>
 
 
 
-
-
-
-
-
-
+    <footer
+        style="
+    background: linear-gradient(135deg, #111, #555);
+    color: cyan;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    font-size: 1rem;
+">
+        <p>© 2025 Taller de Git y GitHub. Todos los derechos reservados.</p>
+    </footer>
 </body>
 
 </html>
