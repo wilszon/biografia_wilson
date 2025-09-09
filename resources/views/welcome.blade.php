@@ -311,6 +311,25 @@
 
 
     </section>
+    <!-- Sección de Habilidades -->
+    <section class="seccion">
+        <h3>Habilidades</h3>
+        <ul class="habilidades">
+            <li>Administración y mantenimiento de equipos de cómputo</li>
+            <li>Manejo de Git /GitHub y paquete de Office</li>
+            <li>Trabajo en equipo y resolución de problemas</li>
+            <h3>Conocimientos Técnicos</h3>
+            <ul class= "habilidades">
+                <li>Lenguajes: Python, PHP, Java, Kotlin, SQL y JavaScript</li>
+                <li>Frameworks: Laravel, React</li>
+            </ul>
+        </ul>
+
+
+    </section>
+
+
+
 
 
 
