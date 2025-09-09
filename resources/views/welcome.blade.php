@@ -274,6 +274,15 @@
 
     <hr class="section-divider">
 
+     <!-- Sección de Habilidades -->
+    <section class="seccion">
+        <h3>Habilidades</h3>
+        <ul class="habilidades">
+            <li>Administración y mantenimiento de equipos de cómputo</li>
+    </section>
+
+
+
 
 
 
