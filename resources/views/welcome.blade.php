@@ -214,6 +214,28 @@
     <hr class="section-divider">
 
 
+    <section class="section-box" id="adolescencia">
+        <h2>Mi Adolescencia</h2>
+        <p>
+            Mi adolescencia la viví en el <strong>Colegio José Elías Puyana</strong>, donde conocí grandes personas con
+            las que aún mantengo amistad y que hicieron de esta etapa algo muy especial. Fue allí donde poco a poco
+            descubrí mi gusto por la <strong>tecnología</strong> y los <strong>videojuegos</strong>, intereses que se
+            convirtieron en parte fundamental de mi vida y me motivaron a elegir mi camino profesional. Recuerdo con
+            cariño mi paso por <strong>onceavo grado</strong>, un año lleno de aprendizajes, preparación y sueños por
+            cumplir, mientras compartía momentos inolvidables con mis compañeros, participaba en actividades del colegio
+            y aprendía el valor del esfuerzo constante. Sin duda, esta etapa fue una de las más bonitas de mi vida y
+            dejó recuerdos que aún me acompañan.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="foto_4.jpg" alt="Wilson Suarez">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+
+
 
 
 </body>
