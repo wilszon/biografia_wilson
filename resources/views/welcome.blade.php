@@ -274,7 +274,7 @@
 
     <hr class="section-divider">
 
-     <section class="section-box" id="academia">
+    <section class="section-box" id="academia">
         <h2>Academia</h2>
         <br>
         <h2>Colegio Tecnico Industrial Jose Elías Puyana</h2>
@@ -290,7 +290,19 @@
             académico como en lo personal.
         </p>
         <hr class="section-divider">
-
+        <h2>Universidad Autónoma de Bucaramanga - UNAB </h2>
+        <br>
+        <div class="hero-img">
+            <img src="https://unab.edu.co/wp-content/uploads/2022/01/1.-Edificio-Armando-Puyana-Puyana.jpg"
+                alt="Colegio">
+        </div>
+        <br>
+        <p>
+            Actualmente curso el 5º semestre de Ingeniería de Sistemas en la UNAB.
+            Aquí he fortalecido mis bases en programación, desarrollo de software y tecnologías emergentes.
+            Me quiero enfocar en la rama del desarrollo de software, que es lo que más me apasiona,
+            y espero pronto poder culminar mis estudios y graduarme con honores.
+        </p>
     </section>
 
 
